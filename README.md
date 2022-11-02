@@ -3,4 +3,4 @@
 
 
 
-`heart_src`文件夹中是另外一个`js`在线代码，直接修改`script.js`即可使用`index.html`打开看效果。
+`Heart_src`文件夹中是另外一个`js`在线代码，直接修改`script.js`即可使用`index.html`打开即可看效果。
